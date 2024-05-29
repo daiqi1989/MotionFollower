@@ -13,6 +13,8 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 
 <video muted="" autoplay="autoplay" loop="loop" src="https://user-images.githubusercontent.com/126239/151336683-4f0c423a-7bd5-4580-888b-4c08fdfdd4e9.mp4" style="width: 100%; height: auto;"></video>
 
+<video muted="" autoplay="autoplay" loop="loop" src="assets/2.mp4" style="width: 100%; height: auto;"></video>
+
 <video muted="" autoplay="autoplay" loop="loop" src="https://raw.githubusercontent.com/daiqi1989/MotionFollower/main/.github/images/demo.mp4" style="width: 100%; height: auto;"></video>
 
 <table class="center" style="width: 100%;">
