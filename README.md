@@ -11,7 +11,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 
 
 
-<video muted="" autoplay="autoplay" loop="loop" src="./assets/demo.mp4" style="width: 100%; height: auto;"></video>
+<video muted="" autoplay="autoplay" loop="loop" src="https://francis-rings.github.io/MotionFollower/assets/15.mp4" style="width: 100%; height: auto;"></video>
 
 <table class="center" style="width: 100%;">
   <tr>
