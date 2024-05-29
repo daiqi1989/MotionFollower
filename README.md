@@ -11,12 +11,6 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 
 
 
-<video muted="" autoplay="autoplay" loop="loop" src="https://user-images.githubusercontent.com/126239/151336683-4f0c423a-7bd5-4580-888b-4c08fdfdd4e9.mp4" style="width: 100%; height: auto;"></video>
-
-<video muted="" autoplay="autoplay" loop="loop" src="assets/2.mp4" style="width: 100%; height: auto;"></video>
-
-<video muted="" autoplay="autoplay" loop="loop" src="https://raw.githubusercontent.com/daiqi1989/MotionFollower/main/.github/images/demo.mp4" style="width: 100%; height: auto;"></video>
-
 <table class="center" style="width: 100%;">
   <tr>
     <td width="25%" style="text-align:center;"><b>Source</b></td>
@@ -26,7 +20,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src="./assets/demo.mp4" style="width: 100%; height: auto;"></video>
+      <video muted="" autoplay="autoplay" loop="loop" src="https://github.com/daiqi1989/MotionFollower/assets/12442237/c4e7e5bc-6ac8-4ab5-973b-e38b293d4f92" style="width: 100%; height: auto;"></video>
     </td>
   </tr>
 </table>
