@@ -20,7 +20,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src="https://github.com/daiqi1989/MotionFollower/assets/12442237/c4e7e5bc-6ac8-4ab5-973b-e38b293d4f92" style="width: 100%; height: auto;"></video>
+      <video autoplay loop muted src="https://github.com/daiqi1989/MotionFollower/assets/12442237/c4e7e5bc-6ac8-4ab5-973b-e38b293d4f92" style="width: 100%; height: auto;"></video>
     </td>
   </tr>
 </table>
