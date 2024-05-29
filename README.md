@@ -18,7 +18,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src="./assets/15.mp4" style="width: 100%; height: auto;"></video>
+      <video muted="" autoplay="autoplay" loop="loop" src="./assets/demo.mp4" style="width: 100%; height: auto;"></video>
     </td>
   </tr>
 </table>
