@@ -34,6 +34,10 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 
 
 <p align="center">
+
+https://github.com/daiqi1989/MotionFollower/assets/12442237/c4e7e5bc-6ac8-4ab5-973b-e38b293d4f92
+
+
 <img src="./assets/overview.jpg" width="1080px"/>  
 <br>
 <em>MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion</em>
